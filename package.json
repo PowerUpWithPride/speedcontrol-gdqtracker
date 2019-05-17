@@ -12,8 +12,6 @@
     "compatibleRange": "^1.0.0",
     "dependencies": [
       "speedcontrol/nodecg-speedcontrol:>=0.9"
-    ],
-    "dashboardPanels": [
     ]
   },
   "license": "GPL-3.0"
