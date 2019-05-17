@@ -1,0 +1,20 @@
+{
+  "name": "speedcontrol-gdqtracker",
+  "version": "1.0.0",
+  "description": "GDQ donation tracker monitor using NodeCG + Speedcontrol",
+  "homepage": "https://layout.powerupwithpride.org",
+  "author": "DorkmasterFlek",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "nodecg": {
+    "compatibleRange": "^1.0.0",
+    "dependencies": [
+      "speedcontrol/nodecg-speedcontrol:>=0.9"
+    ],
+    "dashboardPanels": [
+    ]
+  },
+  "license": "GPL-3.0"
+}
